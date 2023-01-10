@@ -5,13 +5,16 @@
 ### Project 4: Interactive Drawing & Animation
 
 [@dustto24k](https://github.com/dustto24k)'s personal final proj of
-'MAS2011_WINTER' (2022.12.22 - 2023.1.11.)
+'MAS2011_WINTER' (2022.12.22 - 2023.1.11.)<br></br>
+<img src="layout.png">
 
 </div>
 
 ## Description
 
-### <i>Air Hockey... but it's Pinball</i>
+### <i>Air Hockey... but it's Pinball</i><br></br>
+<div align ="center"><img src="concept.png"></div>
+
 Keep your pin-puck from falling into holes, using a mouse-operated striker. Meanwhile, you might consider hitting your pin-puck with other red pucks, so you can beat your own highscores from previous plays. But be careful, everytime a puck gets hit, it gets faster and you might miss your next strike! btw the title... doesn't mean anything in specific.
 - Every time your pin-puck collide with other pucks, score is raised. Default value of 3, but it multiplies twice every 10 seconds. So the more you survive, the higher score you could get.
 - Or you can choose to get more collisions in small amount of time, that's one part of strategy.
